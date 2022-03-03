@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1>Hello World! I'm Muhammad Arief👋</h1>
+<p>Just a tech enthusiast and loved to code.</p>
+
+<p>Follow for stay connected!</p>
+
+<a href='http://linkedin.com/in/muhamad-arief-previasakti-suradi/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&&link=&logo=linkedin&logoColor=white'/></a>
+<a href='https://github.com/itsmerifz/'><img src='https://img.shields.io/github/followers/itsmerifz.svg?style=for-the-badge&logo=github&logoColor=white'/></a>
+<a href='https://itsmerifz.my.id'><img src='https://img.shields.io/badge/website-gray?style=for-the-badge&logo=Google-Chrome&logoColor=white'/></a>
+
+<img src='https://github-readme-stats.vercel.app/api?username=itsmerifz&theme=dark&hide=issues&show_icons=true'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsmerifz&theme=dark'/>
 
 <!--
 **itsmerifz/itsmerifz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
