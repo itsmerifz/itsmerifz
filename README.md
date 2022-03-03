@@ -1,5 +1,5 @@
-<h1>Hello World! I'm Muhammad Arief👋</h1>
-<p>Just a tech enthusiast and loved to code.</p>
+# Hello World! I'm Muhammad Arief👋
+<img src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+gamer+and+loved+to+code.'>
 
 <p>Follow for stay connected!</p>
 
@@ -7,20 +7,30 @@
 <a href='https://github.com/itsmerifz/'><img src='https://img.shields.io/github/followers/itsmerifz.svg?style=for-the-badge&logo=github&logoColor=white'/></a>
 <a href='https://itsmerifz.my.id'><img src='https://img.shields.io/badge/website-gray?style=for-the-badge&logo=Google-Chrome&logoColor=white'/></a>
 
+
+## More details about me
+```javascript
+const rippu = {
+  pronouns: "He" | "Him",
+  code: ["HTML", "CSS", "JavaScript", "PHP", "Java"],
+  knowsAbout: ["Web Developer", "Game", "Tech"],
+  technologies: {
+    frontEnd: {
+      js: "React (learning ...)",
+    },
+    backEnd: {
+      js: ["Node.js (learning ...)", "Next.js (learning ...)"],
+    },
+    databases: {
+      sql: ["MySQL", "MsSQL"],
+      noSql: "firebase",
+    },
+  },
+};
+```
+
 <img src='https://github-readme-stats.vercel.app/api?username=itsmerifz&theme=dark&hide=issues&show_icons=true'/>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsmerifz&theme=dark'/>
+<!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsmerifz&theme=dark'/> -->
 
-<!--
-**itsmerifz/itsmerifz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ## Last activities
+<img src="https://wakatime.com/share/@2e190797-4aa0-45bd-be0d-bb5fb2da93b4/376ce37b-8292-4cdb-9936-b84fbc201e27.svg" width='400' height='300'> -->
