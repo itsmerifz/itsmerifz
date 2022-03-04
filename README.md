@@ -29,8 +29,8 @@ const rippu = {
 };
 ```
 
-<img src='https://github-readme-stats.vercel.app/api?username=itsmerifz&theme=dark&hide=issues&show_icons=true'/>
+<img src='https://github-readme-stats.vercel.app/api?username=itsmerifz&theme=dark&hide=issues&show_icons=true&count_private=false&include_all_commits=true'/>
 <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsmerifz&theme=dark'/> -->
 
-## Last activities
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsmerifz">
+<!-- ## Last activities
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsmerifz"> -->
