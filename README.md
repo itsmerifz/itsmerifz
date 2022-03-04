@@ -32,5 +32,5 @@ const rippu = {
 <img src='https://github-readme-stats.vercel.app/api?username=itsmerifz&theme=dark&hide=issues&show_icons=true'/>
 <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsmerifz&theme=dark'/> -->
 
-<!-- ## Last activities
-<img src="https://wakatime.com/share/@2e190797-4aa0-45bd-be0d-bb5fb2da93b4/376ce37b-8292-4cdb-9936-b84fbc201e27.svg" width='400' height='300'> -->
+## Last activities
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsmerifz">
