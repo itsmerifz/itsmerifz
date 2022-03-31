@@ -16,10 +16,10 @@ const rippu = {
   knowsAbout: ["Web Developer", "Game", "Tech"],
   technologies: {
     frontEnd: {
-      js: "React (learning ...)",
+      js: "ReactJS",
     },
     backEnd: {
-      js: ["Node.js (learning ...)", "Next.js (learning ...)"],
+      js: ["NodeJS", "NextJS (learning ...)", "ExpressJS"],
     },
     databases: {
       sql: ["MySQL", "MsSQL"],
