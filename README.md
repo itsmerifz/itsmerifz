@@ -23,7 +23,7 @@ const rippu = {
     },
     databases: {
       sql: ["MySQL", "MsSQL"],
-      noSql: "firebase",
+      noSql: ["firebase", "MongoDB"],
     },
   },
 };
