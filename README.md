@@ -20,6 +20,7 @@ const rippu = {
     },
     backEnd: {
       js: ["NodeJS", "NextJS (learning ...)", "ExpressJS"],
+      php: "Laravel",
     },
     databases: {
       sql: ["MySQL", "MsSQL"],
