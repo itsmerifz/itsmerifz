@@ -12,7 +12,7 @@
 ```javascript
 const rippu = {
   pronouns: "He" | "Him",
-  code: ["HTML", "CSS", "JavaScript", "PHP", "Java"],
+  code: ["HTML", "CSS", "JavaScript", "PHP", "Java", "Python"],
   knowsAbout: ["Web Developer", "Game", "Tech"],
   technologies: {
     frontEnd: {
