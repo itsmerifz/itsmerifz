@@ -5,6 +5,7 @@
 
 <a href='http://linkedin.com/in/muhamad-arief-previasakti-suradi/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&&link=&logo=linkedin&logoColor=white'/></a>
 <a href='https://github.com/itsmerifz/'><img src='https://img.shields.io/github/followers/itsmerifz.svg?style=for-the-badge&logo=github&logoColor=white'/></a>
+<img src='https://komarev.com/ghpvc/?username=itsmerifz&style=for-the-badge&label=VISITORS'></img>
 <a href='https://itsmerifz.my.id'><img src='https://img.shields.io/badge/website-gray?style=for-the-badge&logo=Google-Chrome&logoColor=white'/></a>
 
 
