@@ -25,14 +25,14 @@ const rippu = {
       py: "Flask"
     },
     databases: {
-      sql: ["MySQL", "MsSQL"],
+      sql: ["MySQL", "PostgreSQL"],
       noSql: ["firebase", "MongoDB"],
     },
   },
 };
 ```
 
-<img src='https://github-readme-stats.vercel.app/api?username=itsmerifz&theme=dark&hide=issues&show_icons=true&count_private=false&include_all_commits=true'/>
+<img src='https://github-readme-stats.vercel.app/api?username=itsmerifz&theme=dracula&show_icons=true'/>
 <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsmerifz&theme=dark'/> -->
 
 <!-- ## Last activities
