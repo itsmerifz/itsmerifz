@@ -14,15 +14,14 @@
 const rippu = {
   pronouns: "He" | "Him",
   code: ["HTML", "CSS", "JavaScript", "PHP", "Java", "Python"],
-  knowsAbout: ["Web Developer", "Game", "Tech"],
+  knowsAbout: ["Web Developer", "Game", "Tech", "Aviation"],
   technologies: {
     frontEnd: {
-      js: ["ReactJS", "NextJS"]
+      js: ["ReactJS", "NextJS", "Astro"]
     },
     backEnd: {
       js: ["NodeJS", "ExpressJS"],
       php: "Laravel",
-      py: "Flask"
     },
     databases: {
       sql: ["MySQL", "PostgreSQL"],
